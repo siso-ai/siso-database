@@ -1,0 +1,22 @@
+# Composer
+vendor/
+composer.lock
+composer.phar
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# PHP
+*.log
+
+# Test coverage
+coverage/
+.phpunit.result.cache
