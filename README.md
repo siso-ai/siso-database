@@ -2,7 +2,7 @@
 
 **PHP implementation - SQL database engine using the SISO framework**
 
-[![Paper](https://img.shields.io/badge/Paper-PDF-blue)](https://siso-framework.org/siso-paper.pdf)
+[![Paper](https://img.shields.io/badge/Paper-PDF-blue)](https://siso-framework.org/downloads/siso-paper.pdf)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Overview
